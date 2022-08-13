@@ -31,7 +31,7 @@ In February 2021, The Blockchain Group [announced](https://nomadic-labs.com/down
 
 ##### _SmartNode_
 
-Created by founders of SmartChain consulting company, SmartNode is an entity dedicated to delegation or staking services. As a public baker on the Tezos network, SmartNode proposes As a public baker on the Tezos network, SmartNode proposes to stake tez at a low commission fees. SmartNode integrates a simple solution to access tez easier through prepaid cards.
+Created by founders of SmartChain consulting company, SmartNode is an entity dedicated to delegation or staking services. As a public baker on the Tezos network, SmartNode proposes to stake tez at a low commission fees. SmartNode integrates a simple solution to access tez easier through prepaid cards.
 
 ##### _CoinHouse_
 
@@ -55,7 +55,7 @@ A leader of digital insurance in Europe, Wakam has expanded its involvement in t
 
 _**Smartlink**_ ****
 
-[Smartlink](https://www.smartlink.so/), a decentralized escrow smart contract platform built on Tezos, expanded its involvement in the ecosystem by [becoming](https://www.nomadic-labs.com/news/smartlink-corporate-baker/) a corporate baker. Smartlink provides end-to-end online escrow solutions to ensure highly reliable transactions and low processing costs while removing the need for costly third-parties. Smartlink is built on Tezos and by officially becoming a baker, Smartlink will now help validate transactions on the Tezos ****blockchain.
+[Smartlink](https://www.smartlink.so/), a decentralized escrow smart contract platform built on Tezos, expanded its involvement in the ecosystem by [becoming](https://www.nomadic-labs.com/news/smartlink-corporate-baker/) a corporate baker. Smartlink provides end-to-end online escrow solutions to ensure highly reliable transactions and low processing costs while removing the need for costly third-parties. Smartlink is built on Tezos and by officially becoming a baker, Smartlink will now help validate transactions on the Tezos blockchain.
 
 \*\*\*\*
 
